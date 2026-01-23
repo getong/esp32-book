@@ -7,14 +7,8 @@ Now, we will remove the DHCP-related code and modify the net_config variable to 
 
 First, let's define the constants that will load the static IP and gateway IP from environment variables. The IP address should be in CIDR format, which includes both the IP address and the subnet mask. We need to specify the IP address followed by a slash and the subnet mask. For example, if you want to assign the IP address 192.168.0.50 to your ESP32, you should write it as 192.168.0.50/24.
 
-
-<div class="alert-box alert-box-info">
-    <span class="icon"><i class="fa fa-info"></i></span>
-    <div class="alert-content">
-        <b class="alert-title">Finding IP</b>
-        <p>You can't assign just any IP address. You need to find the IP range your Wi-Fi router is using. To do this, you can type `ip a` in the terminal and look for the IP address next to your Wi-Fi interface (typically starting with `wl`). For example, if your system's IP address is 192.168.0.103, you can assign an IP address starting from 192.168.0.2</p>
-    </div>
-</div>
+> [!Tip]
+> You can't assign just any IP address. You need to find the IP range your Wi-Fi router is using. To do this, you can type `ip a` in the terminal and look for the IP address next to your Wi-Fi interface (typically starting with `wl`). For example, if your system's IP address is 192.168.0.103, you can assign an IP address starting from 192.168.0.2
 
 ## Project base
 You copy the same project that we created in the previous chapter.

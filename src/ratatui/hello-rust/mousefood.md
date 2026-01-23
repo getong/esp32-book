@@ -40,7 +40,8 @@ ili9341 = "0.6.0"
 embedded-graphics = "0.8.1"
 ```
 
-> Note: while this example uses the `ili9341` crate for interacting with the TFT Display, you can use `mousefood` with any display driver crate that implements the embedded-graphics traits.
+> [!Tip]
+> While this example uses the `ili9341` crate for interacting with the TFT Display, you can use `mousefood` with any display driver crate that implements the embedded-graphics traits.
 
 Now, let's add the ratatui and mousefood crates, which let us use ratatui in an embedded environment. 
 

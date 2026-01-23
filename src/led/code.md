@@ -18,14 +18,8 @@ This will open a screen asking you to select options.  In the latest esp-hal, le
 
 Then save it by pressing "s" in the keyboard.
 
-
-<div class="alert-box alert-box-info">
-    <span class="icon"><i class="fa fa-info"></i></span>
-    <div class="alert-content">
-        <b class="alert-title">Imports</b>
-            <p>In the explanation, I won't include the required imports since they aren't particularly interesting or need much explanation. You can always refer to the "Full Code" section below or clone the project to cross-check.</p>
-    </div>
-</div>
+> [!Tip]
+> In the explanation, I won't include the required imports since they aren't particularly interesting or need much explanation. You can always refer to the "Full Code" section below or clone the project to cross-check.
 
 
 ## Auto generated code

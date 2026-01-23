@@ -1,17 +1,9 @@
 
-## ADC to Resistance
+# ADC to Resistance
+
 When setting up the thermistor with the ESP32, we don't get the voltage directly. Instead, we receive an ADC value (refer to the [ADC](../core-concepts/adc/index.md) chapter). We need resistance value from the adc value for the thermistor temperature calculation(that will be discussed in the next chapters).
 
 We will use this formula to calculate the resistance value from the ADC reading. If you need how it is derived, refer the [Deriving Resistance from ADC Value](./adc-maths.md).
-
-
-<div class="alert-box alert-box-info">
-    <span class="icon"><i class="fa fa-info"></i></span>
-    <div class="alert-content">
-        <b class="alert-title">Methods</b>
-        <p>There are other formulas and methods to calculate the temperature from the ADC value. This is the approach I felt aligns best with the voltage divider formula.</p>
-    </div>
-</div>
 
 \\[
 R_2 = \frac{R_1}{\left( \frac{\text{ADC_MAX}}{\text{adc_value}} - 1 \right)}

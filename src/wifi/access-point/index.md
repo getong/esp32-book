@@ -1,6 +1,6 @@
 # Access Point - Create Wi-Fi network on ESP32
 
-So far, we have been using an existing Wi-Fi network. However, you can create your own Wi-Fi network with the ESP32 (just don't expect it to provide internet 😉). In this exercise, we will configure the ESP32 as an access point and run the web server.
+So far, we have been using an existing Wi-Fi network. However, you can create your own Wi-Fi network with the ESP32 (just don't expect it to provide internet). In this exercise, we will configure the ESP32 as an access point and run the web server.
 
 
 ## Project base

@@ -32,14 +32,12 @@ After banging my head for several days, I realized that not all servos follow th
 - approximately 1.5ms pulse for 90 degrees.
 - approximately 2.5ms pulse for 180 degrees.
 
-<div class="alert-box alert-box-info">
-    <span class="icon"><i class="fa fa-info"></i></span>
-    <div class="alert-content">
-        <b class="alert-title">Pulse width and Servo's horn Position</b>
-        <p>The servo motor holds its position until we change the pulse width. For example, if we keep sending a 1.5 ms pulse width, it will stay in the 90-degree position. When we change the pulse width to 2.0 ms, it will move to 180 degrees. However, we must allow enough time for it to reach its position.</p>
-        <p>Also, if you send the wrong pulse width (for example, 10 ms), it won't move at all.<p>
-    </div>
-</div>
+> [!Note]
+> **Pulse width and Servo's horn Position**
+>
+> The servo motor holds its position until we change the pulse width. For example, if we keep sending a 1.5 ms pulse width, it will stay in the 90-degree position. When we change the pulse width to 2.0 ms, it will move to 180 degrees. However, we must allow enough time for it to reach its position.
+>
+> Also, if you send the wrong pulse width (for example, 10 ms), it won't move at all.
 
 I had to test and adjust the pulse durations to find the correct positions. If you're unsure about your servo's behavior, you can use tools like an oscilloscope to fine-tune the pulse widths or experiment with different values to find what works best.
 

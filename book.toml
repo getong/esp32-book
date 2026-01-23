@@ -1,17 +1,22 @@
 [book]
 title = "impl Rust for ESP32"
-authors = []
+authors = ["ImplFerris"]
 language = "en"
-multilingual = false
 src = "src"
 
 [output.html]
 git-repository-url = "https://github.com/ImplFerris/esp32-book"
 cname = "esp32.implrust.com"
 preferred-dark-theme = "ayu"
-preferred-light-theme = "rust"
-default-theme = "light"
+default-theme = "dark"
 mathjax-support = true
+
+
+# Don't show table of contents for entire page in the navigation bar
+# Pretty confusing to look at the chapter 
+sidebar-header-nav = false
+
+additional-css = ["theme/css/custom.css"]
 
 # [output.html.playground]
 # editable = true

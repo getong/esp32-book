@@ -2,14 +2,8 @@
 
 Bluetooth needs no introduction. You probably use it daily; connecting your wireless headphones with your phone, wireless mouse, smartwatch, and more. In smart homes, Bluetooth helps link different devices. For example, you can control lights, appliances, and thermostats using Bluetooth-enabled apps on your phone.
 
-<div class="alert-box alert-box-info">
-    <span class="icon"><i class="fa fa-info"></i></span>
-    <div class="alert-content">
-        <b class="alert-title">Did you know?</b>
-            <p>Bluetooth was named after King Harald "Bluetooth" Gormsson. During a meeting, Jim Kardach from Intel suggested it as a temporary code name. Kardach later said, "King Harald Bluetooth…was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link"</p>
-    </div>
-</div>
-
+> [!Note]
+> Bluetooth was named after King Harald "Bluetooth" Gormsson. During a meeting, Jim Kardach from Intel suggested it as a temporary code name. Kardach later said, "King Harald Bluetooth…was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link"
 
 ## Categories  
 

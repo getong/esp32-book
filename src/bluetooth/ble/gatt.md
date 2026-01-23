@@ -6,14 +6,8 @@ In the previous chapter, we learned that the GAP layer helps Bluetooth LE device
 
 There are two roles in GATT: Server and Client.  The server holds data as attributes, and the client accesses this data. Typically, a peripheral device (like a sensor) acts as the server, and a central device (such as a smartphone) functions as the client.
 
-<div class="alert-box alert-box-info">
-    <span class="icon"><i class="fa fa-info"></i></span>
-    <div class="alert-content">
-        <b class="alert-title">Central-Peripheral vs Server-Client</b>
-            <p>The client and server roles in GATT are independent of the peripheral and central roles in the Generic Access Profile (GAP). This means a central device can be either a client or a server, and the same applies to a peripheral device.
-</p>
-    </div>
-</div>
+> [!Note]
+> **Central-Peripheral vs Server-Client**: The client and server roles in GATT are independent of the peripheral and central roles in the Generic Access Profile (GAP). This means a central device can be either a client or a server, and the same applies to a peripheral device.
 
 For example, in a smartphone and fitness tracker scenario, the fitness tracker (peripheral) typically acts as a GATT server, storing sensor data like heart rate or step count, while the smartphone (central) acts as a GATT client, reading this data to display it in an app.  However, if the smartphone needs to send configuration settings to the tracker (e.g., adjusting display brightness or setting an alarm), it temporarily becomes the server, and the fitness tracker acts as the client to receive these settings.
 

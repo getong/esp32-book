@@ -5,13 +5,8 @@ In earlier exercises, we accessed websites and printed the response in the conso
 ## What We will Be Doing
 We'll set up a simple web server to serve a single index.html page. For this example, let's assume the ESP32 has been assigned the IP address "192.168.0.101" (it gets displayed it in the console, when we are running). Once the server is running, you can access the page by navigating to 'http://192.168.0.101/' in your computer's browser. You can either use your own HTML page or the index.html page I created for this exercise, which you can find [here](https://github.com/ImplFerris/esp32-projects/blob/main/webserver-html/src/bin/index.html).
 
-<div class="alert-box alert-box-info">
-    <span class="icon"><i class="fa fa-info"></i></span>
-    <div class="alert-content">
-        <b class="alert-title">DHCP vs Static IP </b>
-        <p>You can set a static IP address instead of letting the DHCP server assign it. This makes the IP address consistent but adds some extra steps. To keep things simple, we won't do it in this exercise. We’ll show you how to set up a static IP in a later exercise.</p>
-    </div>
-</div>
+> [!Note]
+> You can set a static IP address instead of letting the DHCP server assign it. This makes the IP address consistent but adds some extra steps. To keep things simple, we won't do it in this exercise. We'll show you how to set up a static IP in a later exercise.
 
 No more waiting, let's start right away. 
 

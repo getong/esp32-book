@@ -6,13 +6,8 @@ The first one (ADC1) provides 8 channels, which are mapped to GPIO32 through GPI
 
 You can further read about the ADC in ESP32 in the [technical reference manual](https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf#page=639&zoom=100,76,1020).
 
-<div class="alert-box alert-box-warning">
-    <span class="icon"><i class="fa fa-warning"></i></span>
-    <div class="alert-content">
-        <b class="alert-title">Wi-Fi and ADC2</b>
-        <p>If you are using Wi-Fi on the ESP32, you can't use ADC2 pins since they are used by the Wi-Fi module. You can only use ADC1 pins.</p>
-    </div>
-</div>
+> [!Important]
+> **Wi-Fi and ADC2**: If you are using Wi-Fi on the ESP32, you can't use ADC2 pins since they are used by the Wi-Fi module. You can only use ADC1 pins.
 
 ### ADC Pins in ESP32 Devkit V1
 [![ADC ESP32 DevKit V1 pinout diagram](../images/ESP32-DevKit-V1-Pinout-Diagram-adc-pins.png)](../images/ESP32-DevKit-V1-Pinout-Diagram-adc-pins.png)

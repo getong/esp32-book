@@ -23,7 +23,8 @@ We can update the ".cargo/config.toml" file with the following lines to fix the 
 rustflags = ["-C", "link-arg=-Tlinkall.x"]
 ```
 
-> ⚠️ Don't add the linker argument in both .cargo/config.toml and build.rs. It will cause a conflict and result in a build error. Use only one method.
+> [!Important]
+> Don't add the linker argument in both .cargo/config.toml and build.rs. It will cause a conflict and result in a build error. Use only one method.
 
 ## Build.rs file
 
