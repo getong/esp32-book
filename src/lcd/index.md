@@ -18,11 +18,18 @@ If you're interested in using Parallel Interface LCDs, refer to the [LCD section
 So, when you are purchasing an LCD module, make sure it has only four pins and includes an I2C interface adapter, as shown in the image.
 
 ## Hardware Requirements
-- **LCD Display (LCD1602) with I2C:** I would recommend getting a 16x2 so you can follow along.  
-<!-- - **Potentiometer (Optional):** This is used to control the LCD contrast. I didn't have one at the moment, so I used resistors instead.  
-- **Resistors (Optional):** Two 1K resistors. If you have a potentiometer, you can ignore this. I used these to control the contrast.   -->
-- **Jump Wires** 
 
+We will need an LCD1602 display. A 16x2 module with an I2C adapter is recommended so you can follow along without adjustments, although other sizes behave the same way.
+
+### Level Shifter
+
+<img style="display: block; margin: auto;width:400px;" alt="lcd1602 I2C" src="./images/4 Channel (I2C or SPI) 3.3V-5V Bi-Directional Logic Level Converter.jpg"/>
+
+ESP32 GPIO pins are 3.6 V tolerant, which means they are not safe to use with 5 V signals. Applying a higher voltage, such as 5 V, to these pins can damage the board. Many LCD1602 displays with an I2C adapter are designed to operate at 5 V, which creates a voltage mismatch when connecting them directly to the Pico.
+
+To connect the ESP32 and the LCD safely, we need to handle this voltage difference. This is where a level shifter is used. A bidirectional I2C logic level shifter allows 3.3 V and 5 V devices to communicate safely and protects the ESP32 GPIO pins. These modules are inexpensive and are commonly sold as "4 Channel (I2C) 3.3V-5V Bi-Directional Logic Level Converter".
+
+Alternatively, you can power the LCD with 3.3 V. This avoids the voltage issue, but the display backlight and contrast will be noticeably dimmer.
 
 ## Datasheet
 - You can access the datasheet for the HD44780 from [Sparkfun](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf) or [MIT site](https://academy.cba.mit.edu/classes/output_devices/44780.pdf)
