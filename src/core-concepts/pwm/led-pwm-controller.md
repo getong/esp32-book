@@ -21,7 +21,7 @@ There are also four low-speed clock modules available, which can be assigned to 
 
 The esp-hal also defines two enums: one for the high-speed clock source (`HSClockSource`) and another for the low-speed clock source (`LSClockSource`). Currently, both enums have a single entry, `APBClk`.
 
-For more details, refer to page 390 of the [ESP32 Technical Reference Manual](https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf#ledpwm).
+For more details, refer to the LED PWM Controller (LEDC) chapter in the [ESP32 Technical Reference Manual](https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf#ledpwm).
 
 ## Calculating PWM Duty Resolution
 
