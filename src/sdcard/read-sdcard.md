@@ -73,7 +73,7 @@ impl TimeSource for DummyTimesource {
 ## Setting Up the SPI for the SD Card Reader
 To communicate with the SD card reader, we will initialize the SPI instance using the SPI2 peripheral. SD cards require the SPI clock to operate between 100 kHz and 400 kHz. In this setup, we will configure the SPI clock to 400 kHz and map the necessary pins to GPIOs for proper communication.
 
-The SCK (Serial Clock) will be assigned to GPIO14, MOSI (Master Out, Slave In) to GPIO15, and MISO (Master In, Slave Out) to GPIO2. Additionally, we will configure the CS (Chip Select) pin on GPIO13 and set its initial state to High.
+The SCK (Serial Clock) will be assigned to GPIO18, MOSI (Master Out, Slave In) to GPIO23, and MISO (Master In, Slave Out) to GPIO19. Additionally, we will configure the CS (Chip Select) pin on GPIO5 and set its initial state to High.
 
 ```rust
 let spi_bus = Spi::new(
