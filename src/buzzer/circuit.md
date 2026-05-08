@@ -1,5 +1,6 @@
+{{#title ESP32 Buzzer Wiring Tutorial for Beginners}}
 
-## Connecting Buzzer with ESP32
+# Connecting Buzzer with ESP32
 
 The buzzer has two pins:  Positive(Signal), Ground; The positive side of the buzzer is typically marked with a **+** symbol and is the longer pin, while the negative side (ground) is the shorter pin, similar to an LED. However, some passive buzzers may allow for either pin to be connected to ground or signal, depending on the specific model. 
 

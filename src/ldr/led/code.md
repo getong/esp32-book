@@ -1,6 +1,8 @@
+{{#title ESP32 LDR Light Sensor Project with LED Control in Rust}}
+
 # Turn on an LED in the Dark with a Photoresistor and ESP32 Using Rust
 
-### Generate project using esp-generate
+## Generate project using esp-generate
 
 To create the project, use the `esp-generate` command. Run the following:
 

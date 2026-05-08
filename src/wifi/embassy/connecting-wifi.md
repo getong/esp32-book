@@ -1,3 +1,5 @@
+{{#title Learn Async Wi-Fi Networking with ESP32 and Embassy}}
+
 # Connecting ESP32 to Wi-Fi with Embassy support
 
 So, we have discussed the dependencies we needed for this exercise and the features that needed to be enabled. Next, we'll focus on the coding. First, we will look at the code to connect Wi-Fi using Embassy.

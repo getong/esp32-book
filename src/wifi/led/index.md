@@ -1,3 +1,5 @@
+{{#title Build a Wi-Fi Controlled LED Project with ESP32 and Rust}}
+
 # Write Rust Code to Control ESP32 LED via Wi-Fi
 
 You can configure a web server on the ESP32 to receive instructions via web requests, allowing you to control connected devices or execute specific actions. For instance, you can use a browser on your computer or mobile phone to send commands to turn an LED on or off, adjust motor speed, or retrieve sensor data.

@@ -1,3 +1,5 @@
+{{#title ESP32 Wi-Fi Programming with Embedded Rust}}
+
 # Wi-Fi
 
 So far, we haven't discussed one of the greatest strengths of the ESP32 chip: its Wi-Fi support. In this section, we'll explore the capabilities of ESP32's Wi-Fi and what we can achieve with it. 

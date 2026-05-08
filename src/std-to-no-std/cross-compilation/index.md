@@ -1,3 +1,5 @@
+{{#title Understanding Rust Cross Compilation and Target Triples}}
+
 # Cross Compilation
 
 Rust allows you to build binaries for operating systems other than the one you are currently using. This means you can write your code on one operating system and build binaries for a completely different one. For example, you can develop on Linux and build .exe files that run on Windows. You can even target bare-metal microcontrollers like the ESP32 or STM32. In this section, we will explore how this works, and what it means to deal with things like target triples.

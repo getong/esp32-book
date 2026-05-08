@@ -1,3 +1,5 @@
+{{#title Understanding ESP32 Bootloaders and App Descriptors in Rust}}
+
 # Application Startup Flow
 
 Before we get into the flashing part, there's one more line we need to add to our code. To understand why, let's look at what happens when our microcontroller powers up. On Espressif chips, our program isn't the first thing to run. Two bootloaders execute before our application even starts. 

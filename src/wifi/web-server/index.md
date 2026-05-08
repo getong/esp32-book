@@ -1,3 +1,5 @@
+{{#title Run a Website on ESP32 Using Rust and Embassy}}
+
 # Writing Rust Code to Run a Website on ESP32
 
 In earlier exercises, we accessed websites and printed the response in the console. In this exercise, we'll do the reverse: We will run a web server on the ESP32. This server will be accessible on the local Wi-Fi network. To make it accessible from the internet, additional setup is required. First, we'll focus on accessing the site within the local Wi-Fi network. We will still be working in STA mode only (i.e connecting to existing Wi-Fi).

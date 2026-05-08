@@ -1,3 +1,5 @@
+{{#title ESP32 Wi-Fi Connection Module with Embassy and Rust}}
+
 # Wi-Fi Module
 
 

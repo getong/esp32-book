@@ -1,3 +1,5 @@
+{{#title Learn Async LED Blinking on ESP32 with Embassy | impl Rust for ESP32 Book}}
+
 # Blinking an LED with ESP RTOS (Embassy) on ESP32 in Rust
 
 Let's re-setup the blinky project but with embassy support.

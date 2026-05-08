@@ -1,3 +1,5 @@
+{{#title How to Connect ESP32 to Wi-Fi and Access Websites in Rust}}
+
 # How to Connect ESP32 to Wi-Fi and Access Websites
 
 In this exercise, we will configure the ESP32 in STA mode to connect to your Wi-Fi. Then, we will make a request to a web server from the ESP32 and print the response in the system console. This code is based on the esp-hal examples.

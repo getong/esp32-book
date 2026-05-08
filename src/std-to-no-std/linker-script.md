@@ -1,3 +1,5 @@
+{{#title Learn How Linker Scripts Work in ESP32 Embedded Rust}}
+
 # Linker Script
 
 Did you try to build the project again? Yup, it no longer compiles. So, what happened?

@@ -1,3 +1,5 @@
+{{#title ESP32 DevKit V1 Pinout Diagram Explained for Beginners}}
+
 # ESP32 Pinout
 
 [![ESP32 DevKit V1 pinout diagram](./images/ESP32-DevKit-V1-Pinout-Diagram.png)](./images/ESP32-DevKit-V1-Pinout-Diagram.png)

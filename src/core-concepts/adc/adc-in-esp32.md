@@ -1,4 +1,6 @@
-## Analog to Digital Converter (ADC) in ESP32
+{{#title Analog to Digital Converter (ADC) in ESP32 Explained}}
+
+# Analog to Digital Converter (ADC) in ESP32
 
 The ESP32 comes with two 12-bit SAR ADCs and supports up to 18 measurement channels. However, the devkit we are using has only 15 ADC pins, so it supports only 15 channels.
 

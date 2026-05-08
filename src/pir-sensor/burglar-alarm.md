@@ -1,3 +1,5 @@
+{{#title Building a Simple Burglar Alarm with ESP32, PIR Sensor, and Rust}}
+
 # Building a Simple Burglar Alarm with ESP32, PIR Sensor, and Rust
 
 Let’s make a simple burglar alarm that activates the buzzer for a short time before turning it off.  We also turn on the on-board LED, which is connected to GPIO2. Feel free to adjust it to suit your needs!

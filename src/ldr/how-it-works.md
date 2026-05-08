@@ -1,4 +1,6 @@
-## How LDR works?
+{{#title How LDR Works in a Voltage Divider Circuit}}
+
+# How LDR works?
 
 We have already given an introduction to what an LDR is. Let me repeat it again: an LDR changes its resistance based on the amount of light falling on it. The brighter the light, the lower the resistance, and the dimmer the light, the higher the resistance.
 

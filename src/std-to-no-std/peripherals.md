@@ -1,3 +1,5 @@
+{{#title What Are Microcontroller Peripherals? | impl Rust for ESP32 Book}}
+
 # Peripherals
 
 Before we move on to the next part, let's quickly look at what peripherals are.

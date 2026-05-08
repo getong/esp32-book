@@ -1,3 +1,5 @@
+{{#title ADC Explained for ESP32 | impl Rust for ESP32 Book}}
+
 # ADC (Analog to Digital Converter)
 
 An Analog-to-Digital Converter (ADC) is a device used to convert analog signals (continuous signals like sound, light, or temperature) into digital signals (discrete values, typically represented as 1s and 0s). This conversion is necessary for digital systems like microcontrollers (e.g., Raspberry Pi, Arduino) to interact with the real world. For example, sensors that measure temperature or sound produce analog signals, which need to be converted into digital format for processing by digital devices.

@@ -1,3 +1,5 @@
+{{#title ESP32 MCPWM Explained for Motor Control and PWM}}
+
 # Motor Control Pulse Width Modulator (MCPWM)
 
 The ESP32 has two PWM peripherals: [LED Controller](./led-pwm-controller.md) and MCPWM. In this chapter, we will introduce the MCPWM.

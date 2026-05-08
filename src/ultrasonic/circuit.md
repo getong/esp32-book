@@ -1,7 +1,9 @@
-## Connecting HC-SR04 ultrasonic sensor with ESP32
+{{#title Learn HC-SR04 Wiring and Voltage Divider with ESP32}}
+
+# Connecting HC-SR04 ultrasonic sensor with ESP32
 
 
-### Why We Need a Voltage Divider?
+## Why We Need a Voltage Divider?
 
 You can skip this, if you have HC-SR04+ which accepts 3.3V power supply also.
 

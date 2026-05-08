@@ -1,3 +1,5 @@
+{{#title Voltage Divider Explained for Embedded Rust and ESP32 Projects}}
+
 # Voltage Divider
 
 A **voltage divider** is a simple circuit that reduces an input voltage \\( V_{in} \\) to a lower output voltage \\( V_{out} \\) using two series resistors. The resistor connected to the input voltage \\( V_{in} \\) is called \\( R_{1} \\), and the other resistor is \\( R_{2} \\). The output voltage \\( V_{out} \\) is taken from the junction between \\( R_{1} \\) and \\( R_{2} \\), producing a fraction of \\( V_{in} \\).

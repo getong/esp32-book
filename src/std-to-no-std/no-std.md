@@ -1,3 +1,5 @@
+{{#title Rust no_std Tutorial for ESP32 and Embedded Systems}}
+
 # no_std
 
 Rust has two main foundational crates: std and core.

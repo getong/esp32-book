@@ -1,3 +1,4 @@
+{{#title Configure a Static IP Address on ESP32 with Rust}}
 
 # Static IP Address
 

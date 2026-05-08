@@ -1,3 +1,4 @@
+{{#title PWM Explained for Beginners with ESP32 and Embedded Rust}}
 
 # Pulse Width Modulation (PWM)
 

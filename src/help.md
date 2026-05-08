@@ -1,3 +1,5 @@
+{{#title Troubleshooting ESP32 Embedded Rust Development}}
+
 # Help & Troubleshooting
 
 If you face any bugs, errors, or other issues while working on the exercises, here are a few ways to troubleshoot and resolve them.

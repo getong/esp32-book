@@ -1,3 +1,5 @@
+{{#title Servo Motor Control with ESP32 MCPWM and Embedded Rust}}
+
 # Controlling servo motor with ESP32's Motor Control Pulse Width Modulator (MCPWM) peripheral
 
 In the previous exercise, we used the LEDC peripheral of the ESP32 to control the servo motor. In this exercise, we will use the MCPWM to achieve the same. An introduction to the MCPWM, its operation, and the corresponding functions in esp-hal is provided [here](../core-concepts/pwm/mcpwm.md). Please read that chapter before proceeding further.

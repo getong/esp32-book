@@ -1,3 +1,5 @@
+{{#title Understanding Panic Handlers and panic_halt in Embedded Rust}}
+
 # Panic Handler
 
 At this point, when you try to build the project, you’ll get this error:

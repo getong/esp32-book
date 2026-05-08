@@ -1,3 +1,5 @@
+{{#title Ultrasonic Sensor Object Detection Alarm Project with ESP32 and Rust}}
+
 # Buzzer Alert for Object Detection with ESP32 and Ultrasonic Sensor 
 
 In our previous exercise, we used an LED that got brighter as the object got closer to the ultrasonic sensor module. Now, instead of the LED, we'll use an active buzzer. The buzzer will make a sound as the object moves closer. While you could use PWM to create different sounds or tones, we'll keep things simple for this project. As the object gets closer to the sensor, the buzzer will produce a beep sound.

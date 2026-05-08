@@ -1,3 +1,5 @@
+{{#title How HC-SR04 Ultrasonic Sensors Work | impl Rust for ESP32 Book}}
+
 # How Does an Ultrasonic Sensor Work?
 
 Ultrasonic sensors work by emitting sound waves at a frequency too high(40kHz) for humans to hear. These sound waves travel through the air and bounce back when they hit an object. The sensor calculates the distance by measuring how long it takes for the sound waves to return.

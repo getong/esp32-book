@@ -1,4 +1,6 @@
-## Turn on LED(or Lamp) in low Light with Pico 
+{{#title ESP32 LDR Light Sensor Project: Turn On LED in Darkness}}
+
+# Turn on LED(or Lamp) in low Light with ESP32 
 
 In this exercise, we'll control an LED based on ambient light levels. The goal is to automatically turn on the LED in low light conditions. 
 

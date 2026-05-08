@@ -1,4 +1,6 @@
-## Writing Rust Code Use HC-SR04 Ultrasonic Sensor with ESP32
+{{#title Writing Rust Code Use HC-SR04 Ultrasonic Sensor with ESP32}}
+
+# Writing Rust Code Use HC-SR04 Ultrasonic Sensor with ESP32
 
 We'll start by generating the project using the template, then modify the code to fit the current project's requirements.
 

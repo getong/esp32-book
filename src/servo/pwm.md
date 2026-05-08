@@ -1,3 +1,5 @@
+{{#title Learn How PWM Controls Servo Motor Position | ESP32 Rust Book}}
+
 # Changing Servo motor's Position based on PWM Duty Cycle
 
 The servo motor we're using operates at a 50Hz frequency, which means that a pulse is sent every 20 milliseconds (ms). 

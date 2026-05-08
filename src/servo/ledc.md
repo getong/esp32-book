@@ -1,4 +1,6 @@
-## ESP32's LEDC peripheral to control servo motor
+{{#title SG90 Servo Motor Control with LEDC PWM and Embedded Rust}}
+
+# ESP32's LEDC peripheral to control servo motor
 
 The ESP32 has LEDC and Motor Control Pulse Width Modulator (MCPWM) peripherals for PWM control. First, we will use the LEDC to generate the PWM, which we've already used in LED, buzzer, and other exercises.
 

@@ -1,3 +1,5 @@
+{{#title How Servo Motors Work: PWM, Pulse Width, and ESP32 Control}}
+
 # Servo Motor
 
 In this section, we'll connect an SG90 Micro Servo Motor to the ESP32 and control its rotation using PWM.  Before moving forward, make sure you've read the [PWM introduction](../core-concepts/pwm/index.md) section.

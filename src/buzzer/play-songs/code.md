@@ -1,4 +1,6 @@
-## Code
+{{#title ESP32 Buzzer Song Player Using PWM and Embedded Rust}}
+
+# Code
 
 ### Generate project using esp-generate
 

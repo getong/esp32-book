@@ -1,4 +1,6 @@
-## Creating a Beep Sound with an Active Buzzer Using ESP32 and Rust
+{{#title ESP32 Active Buzzer Beep Tutorial with Embedded Rust}}
+
+# Creating a Beep Sound with an Active Buzzer Using ESP32 and Rust
 
 Since you already know that an active buzzer is simple to use, you can make it beep just by powering it. In this exercise, we'll make it beep with just a little code.
 

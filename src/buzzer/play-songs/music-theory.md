@@ -1,4 +1,6 @@
-## Introduction to Music Notes and Sheet Music
+{{#title Learn Music Notes, BPM, and Sheet Music Basics}}
+
+# Introduction to Music Notes and Sheet Music
 
 This is a brief guide to music notes and sheet music. While it may not cover everything, it provides a quick reference for key concepts.
 

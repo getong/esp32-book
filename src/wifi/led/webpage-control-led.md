@@ -1,3 +1,5 @@
+{{#title ESP32 Wi-Fi LED Control Through a Browser Using Rust}}
+
 # Control ESP32 LED with Webpage
 
 We will create a simple API endpoint that accepts a boolean input to control the LED's state. Along with this, an "index.html" page will be served, displaying two buttons: one to turn the LED on and another to turn it off.

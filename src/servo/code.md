@@ -1,3 +1,5 @@
+{{#title Writing Rust code to smoothly rotate Servo motor with ESP32}}
+
 # Writing Rust code to smoothly rotate Servo motor with ESP32
 
 ## Generate project using esp-generate

@@ -1,3 +1,5 @@
+{{#title Initializing esp-hal and Peripherals in Embedded Rust}}
+
 # Initialize ESP HAL
 
 We were able to successfully prepare a binary for the ESP32. However, the program does absolutely nothing at this stage. Let's bring it to life by replicating the same blinky program we saw in the Quick Start section.

@@ -1,3 +1,5 @@
+{{#title How to Run Embedded Rust Programs on ESP32}}
+
 # Flash
 
 Nope, we are not talking about the fastest man alive. We are talking about writing our binary into the microcontroller and running it.

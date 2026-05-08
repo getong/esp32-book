@@ -1,4 +1,6 @@
-## LDR (Light Dependent Resistor)
+{{#title LDR Light Sensor with ESP32 and Embedded Rust Project}}
+
+# LDR (Light Dependent Resistor)
 
 In this section, we will use an LDR (Light Dependent Resistor, also referred as photocell or photoresistor) with the ESP32. An LDR changes its resistance based on the amount of light falling on it. The brighter the light, the lower the resistance, and the dimmer the light, the higher the resistance. This makes it ideal for applications like light sensing, automatic lighting, or monitoring ambient light levels.
 

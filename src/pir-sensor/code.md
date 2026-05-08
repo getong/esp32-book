@@ -1,3 +1,5 @@
+{{#title Write Rust Code for Motion Detection Using a PIR Sensor and ESP32}}
+
 # Write Rust Code for Motion Detection Using a PIR Sensor and ESP32
 
 Let's write a simple program that prints a message whenever motion is detected. This will help us fine-tune the PIR sensor settings and grasp some basic concepts. Once that's done, we'll build a complete burglar alarm simulation with a buzzer and an onboard LED (or an external LED, which you can adjust as needed) to make it more exciting.

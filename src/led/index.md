@@ -1,3 +1,5 @@
+{{#title Learn ESP32 PWM LED Brightness Control with Embedded Rust}}
+
 # LED Fading effect
 
 In this section, we will learn how to create a fading effect(i.e. reducing and increasing the brightness) for an LED using the ESP32. First, we will fade the onboard LED, which is connected to GPIO 2. 

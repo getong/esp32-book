@@ -1,3 +1,5 @@
+{{#title Controlling an ESP32 LED with Rust and esp-hal}}
+
 # LED
 
 Next step is to configure the onboard LED of the DevKit v1. How are we going to do that? For that, we need to control a GPIO pin.

@@ -1,3 +1,5 @@
+{{#title Playing Musical Notes on ESP32 Using PWM and Rust}}
+
 # Playing Songs on a Passive Buzzer Using Rust and ESP32
 
 We are going to play songs on the buzzer.  If you're unsure about musical notes and sheet music, feel free to check out the quick theory I've provideded [here](./music-theory.md).

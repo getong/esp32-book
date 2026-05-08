@@ -1,4 +1,6 @@
-## HC-SR501 Pinout
+{{#title PIR Motion Sensor Pinout and Connection Guide for ESP32}}
+
+# HC-SR501 Pinout
 
 The output pin is easy to spot since it's right in the middle.
 

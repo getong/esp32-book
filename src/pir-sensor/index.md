@@ -1,3 +1,5 @@
+{{#title Create PIR Motion Sensor Project with ESP32 and Rust}}
+
 # PIR Sensor
 
 Ever walked into a room and had the lights turn on automatically? That's probably a PIR sensor at work.

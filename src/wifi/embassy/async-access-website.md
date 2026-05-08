@@ -1,3 +1,5 @@
+{{#title Async Wi-Fi HTTP Requests on ESP32 with Embassy and Rust}}
+
 # Connecting ESP32 to Wi-Fi and Accessing Websites Asynchronously with Embassy
 
 In this exercise, we will once again use the STA mode to access a website. But this time, we will do it asynchronously. We will use the reqwless crate as our HTTP client and the Embassy framework to enable asynchronous capabilities for embedded environments. Along with these, we will include additional helper crates.

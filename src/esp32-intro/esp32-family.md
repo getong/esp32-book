@@ -1,3 +1,5 @@
+{{#title ESP32 Variants Guide for Beginners: SoC, Module, and DevKit Explained}}
+
 # ESP32 Family
 
 If you're new and searching for what ESP32 to buy, you might feel overwhelmed by the many choices and variants. In this section, we'll explore these variants.

@@ -1,3 +1,5 @@
+{{#title HC-SR04 Ultrasonic Sensor Project with ESP32 and Embedded Rust}}
+
 # HC-SR04 Ultrasonic Sensor 
 
 In this guide, we'll learn how to use the HC-SR04 ultrasonic sensor with the ESP32. Ultrasonic sensors measure distances by emitting ultrasonic sound waves and calculating the time taken for them to return after bouncing off an object.  

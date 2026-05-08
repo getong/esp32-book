@@ -1,3 +1,5 @@
+{{#title ESP32 Rust Quick Start: Blink LED with Embedded Rust}}
+
 # Quick Start - Hello Embedded World !
 
 Before diving into the theory and concepts of how everything works, let's jump straight into action. Use this simple code to turn on the onboard LED of the ESP32 DevKit.

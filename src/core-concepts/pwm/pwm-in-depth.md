@@ -1,3 +1,5 @@
+{{#title Understanding PWM Timers and Duty Cycle in Embedded Systems}}
+
 # PWM in Depth
 
 <style> 

@@ -1,3 +1,5 @@
+{{#title Building a no_std ESP32 Rust Project from Scratch}}
+
 # From std to no_std
 
 We have successfully flashed and run our first program, which creates a blinking effect. However, we have not yet explored the code or the project structure in detail. In this section, we will recreate the same project from scratch instead of using the template. I will explain each part of the code and configuration along the way. Are you ready for the challenge?

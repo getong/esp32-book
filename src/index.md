@@ -1,3 +1,5 @@
+{{#title Learn Embedded Rust with ESP32 IoT Projects | impl Rust for ESP32}}
+
 # Intro
 
 In this book, we use the ESP32 DevKit v1 with Rust to build simple and fun projects. The ESP32 is a popular microcontroller for IoT applications, and we take a hands-on approach to help you learn by doing. You will explore how to turn on an LED when the room gets darker using an LDR, use an ultrasonic sensor to detect when something is close, control an LED through Wi-Fi, draw images/text on an OLED display, play songs and alarm sound with a buzzer, control a servo motor, and more.

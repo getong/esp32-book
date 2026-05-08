@@ -1,4 +1,6 @@
-## Writing Rust Code to Create an LED Fading Effect on ESP32
+{{#title Writing Rust Code to Create an LED Fading Effect on ESP32}}
+
+# Writing Rust Code to Create an LED Fading Effect on ESP32
 
 Now comes the fun part; let's dive into the coding!
 

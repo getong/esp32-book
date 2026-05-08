@@ -1,3 +1,5 @@
+{{#title Active vs Passive Buzzer Explained for ESP32 Projects}}
+
 # Buzzer
 
 In this section, we will explore some fun activities using the `buzzer`.

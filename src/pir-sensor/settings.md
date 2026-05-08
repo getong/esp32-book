@@ -1,5 +1,6 @@
+{{#title Configuring HC-SR501 PIR Motion Sensor Detection Range and Output Timing}}
 
-## Adjusting the PIR Sensor Settings  
+# Adjusting the PIR Sensor Settings  
 
 <img style="display: block; margin: auto;width:60vh;" alt="HC-SR501" src="./images/hc-sr501-details.jpg"/>
 <p>Image Credit: <a href="https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview">Adafruit</a></p>

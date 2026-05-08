@@ -1,5 +1,7 @@
+{{#title Connecting an SG90 Servo Motor to ESP32 | Embedded Rust Book}}
 
-## Connection Overview
+# Connection Overview
+
 1. **Ground (GND)**: Connect the servo's GND pin (typically the **brown** wire, though it may vary) to any ground pin on the ESP32.
 2. **Power (VCC)**: Connect the servo's VCC pin (usually the **red** wire) to the ESP32's 5V (Vin) power pin.
 3. **Signal (PWM)**: Connect the servo's control (signal) pin to **GPIO 33** on the ESP32, configured for PWM. This is commonly the **orange** wire (may vary).

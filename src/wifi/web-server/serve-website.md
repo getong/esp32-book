@@ -1,3 +1,5 @@
+{{#title Serve HTML Pages from ESP32 Using Rust and picoserve}}
+
 # Web Module - Serve Webpage
 
 We have completed the boilerplate for the Wi-Fi connection. Next, we will use the picoserve crate to set up a route for the root URL ("/") that will serve our HTML page.

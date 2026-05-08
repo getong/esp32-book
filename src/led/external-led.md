@@ -1,3 +1,5 @@
+{{#title ESP32 PWM LED Dimming with External LED in Embedded Rust}}
+
 # Using external LED
 
 You can do the same fading effect with external LED. 

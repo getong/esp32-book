@@ -1,3 +1,5 @@
+{{#title ESP32 LEDC PWM Controller Explained | impl Rust for ESP32 Book}}
+
 # LED PWM Controller(LEDC)
 
 The ESP32 has LED PWM Controller(LEDC) that generates PWM signals for controlling LEDs(example, dimming effect). However, its functionality isn't limited to LEDs;you can use it for other applications as well.  If you are not familiar with PWM(Pulse Width Modulation), i recommend you to check intro to the PWM [here](./index.md). 

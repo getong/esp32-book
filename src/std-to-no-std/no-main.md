@@ -1,3 +1,5 @@
+{{#title How no_main Works in no_std Rust for ESP32}}
+
 # no_main
 
 When you try to build at this stage, you'll get an error saying the main function requires the standard library. What?! (I controlled my temptation to insert a Mr. Bean meme here since not everyone will like meme.) So what now? Where does the program even start?

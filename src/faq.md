@@ -1,5 +1,6 @@
-# FAQ
+{{#title Embedded Rust ESP32 FAQ: Toolchain, Boards, and Errors}}
 
+# FAQ
 
 ### 1. Can I use other ESP32 dev boards?
 

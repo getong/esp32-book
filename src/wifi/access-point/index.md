@@ -1,3 +1,5 @@
+{{#title ESP32 Access Point Mode and Web Server in Embedded Rust}}
+
 # Access Point - Create Wi-Fi network on ESP32
 
 So far, we have been using an existing Wi-Fi network. However, you can create your own Wi-Fi network with the ESP32 (just don't expect it to provide internet). In this exercise, we will configure the ESP32 as an access point and run the web server.

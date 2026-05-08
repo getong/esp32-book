@@ -1,3 +1,5 @@
+{{#title How to Set Up Development Environment for Embedded Rust with ESP32}}
+
 # Development Environment
 
 The [official docs](https://docs.espressif.com/projects/rust/book/getting-started/index.html) provides more comprehensive setup instructions. However, I will quickly cover the essential tools and setup needed for our exercises. If you encounter any issues, refer to the official documentation for troubleshooting.

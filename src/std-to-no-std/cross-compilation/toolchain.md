@@ -1,3 +1,5 @@
+{{#title How to Configure Rust Toolchains for ESP32 Embedded Development}}
+
 # Toolchain
 
 Once you add the target in the config.toml file and try to build the project using cargo build, it will no longer compile. At this point, you'll see an error like this:
