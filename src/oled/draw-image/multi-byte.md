@@ -1,4 +1,6 @@
-## Using Multiple Bytes to Represent Wider Pixel Widths
+{{#title Working with Multi-Byte Bitmap Data on SSD1306 OLED Displays}}
+
+# Using Multiple Bytes to Represent Wider Pixel Widths
 
 In the previous example, we kept it simple by using an 8-pixel wide image, allowing each row to be represented by a single byte. However, in real scenarios, we might need more pixels. So, how do we represent them? We can use multiple bytes to represent wider pixel widths. But, hold on;if we do that, how will the system differentiate between columns and rows?
 

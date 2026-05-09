@@ -1,3 +1,5 @@
+{{#title Using I2C in the Embedded Rust Ecosystem}}
+
 # Using I2C with the Embedded Rust Ecosystem
 
 In the previous section, we learned the basics of I2C communication and how the controller-target (master-slave) model works. Now, let's see how these concepts apply in the Embedded Rust ecosystem, where modular and reusable design is a key principle.

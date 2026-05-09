@@ -1,4 +1,6 @@
-## Code
+{{#title Rust Code to Draw Raw Images on OLED Display with ESP32}}
+
+# Code
 
 By now, i hope you understand how the image is represented in the byte array. Now, let's move on to the coding part.
 

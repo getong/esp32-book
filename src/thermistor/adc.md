@@ -1,3 +1,4 @@
+{{#title Converting ADC Values to Thermistor Resistance in Rust}}
 
 # ADC to Resistance
 

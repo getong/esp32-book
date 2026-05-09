@@ -1,3 +1,5 @@
+{{#title HD44780 LCD Custom Symbol Library for ESP32 and Rust}}
+
 # Symbols Index
 
 Here is a list of custom symbols with their corresponding byte arrays. If you've designed an interesting symbol and want to add to this list, feel free to submit a pull request. Please use the [custom character generator](./lcd-custom-char-generator.md) provided here to ensure consistency.

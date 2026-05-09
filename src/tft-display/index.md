@@ -1,3 +1,5 @@
+{{#title Getting Started with TFT Displays on ESP32 Using Rust}}
+
 # TFT Display
 
 In this chapter, we will learn how to work with a TFT Display. TFT stands for Thin-Film Transistor, which is a type of LCD (Liquid Crystal Display) that gives us vibrant colors, clear images, and fast refresh rates. Compared to simple text-based displays like 16x2 LCDs or monochrome OLEDs, TFT displays allow us to show full-color graphics, shapes, images, and even touch-based user interfaces.

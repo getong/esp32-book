@@ -1,3 +1,5 @@
+{{#title Getting Started with e-Ink Displays on ESP32 Using Rust}}
+
 # e-Ink (e-Paper) Display Module
 
 e-Ink, also known as e-Paper (or electronic paper) display, is one of the most fascinating display modules I've come across. You write text or images to the display using a microcontroller, then unplug it-and the display continues to show whatever you sent without needing a power source. Seriously, no wires, no batteries, nothing! Yes, you heard that right. It feels like a magic.

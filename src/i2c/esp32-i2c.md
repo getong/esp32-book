@@ -1,3 +1,5 @@
+{{#title Learn How to Use I2C on ESP32 with Embedded Rust}}
+
 # ESP32 I2C Bus Interfaces
 
 The ESP32 includes two I2C bus interfaces, each of which can be configured as either a controller or a target. According to the ESP32 datasheet, one interface is part of the main system, while the other belongs to the low-power subsystem.

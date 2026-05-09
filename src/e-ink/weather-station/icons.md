@@ -1,4 +1,6 @@
-## Icons
+{{#title Rust ESP32 e-Ink Weather Icons Using tinybmp and build.rs}}
+
+# Icons
 
 We'll need a set of icons to indicate weather, humidity, air quality, and other information. I've converted these icons from Google Fonts into BMP files, which we can use with the tinybmp crate.
 

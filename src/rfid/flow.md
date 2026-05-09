@@ -1,3 +1,5 @@
+{{#title RFID Communication Flow and MIFARE Card States Explained}}
+
 # Flow
 
 When you bring the tag near the reader, it goes into a state where it waits for either a REQA (Request) or WUPA (Wake Up) command.

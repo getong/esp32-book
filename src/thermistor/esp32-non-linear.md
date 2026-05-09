@@ -1,5 +1,6 @@
-# ADC non-linearity issue in ESP32 
+{{#title ESP32 ADC Non-Linearity Correction in Rust Using Lookup Table (LUT)}}
 
+# ADC non-linearity issue in ESP32 
 
 In the older versions of the ESP32 chip, like the one in the Devkit V1 (which you probably have too), there is non-linearity issue in the ADC. When I used the raw ADC value to calculate the temperature, I kept getting incorrect results. It confused me for a couple of days until I came across this article: [Using a Thermistor with Arduino and Unexpected ESP32 ADC Non-linearity](https://www.e-tinkers.com/2019/10/using-a-thermistor-with-arduino-and-unexpected-esp32-adc-non-linearity/). It explained the non-linearity issue with the ESP32's ADC.
 

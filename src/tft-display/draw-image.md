@@ -1,3 +1,5 @@
+{{#title Draw image on TFT Display using ESP32 | Embedded Rust Book}}
+
 # Draw image on TFT Display using ESP32 and Rust
 
 Let's draw an image on the TFT Display. We can achieve this using the embedded-graphics crate, and optionally, the tinybmp crate.

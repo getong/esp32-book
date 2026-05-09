@@ -1,3 +1,5 @@
+{{#title ESP32 SPI Tutorial: Serial Peripheral Interface Explained}}
+
 # Serial Peripheral Interface (SPI)
 
 In this section, we will learn what SPI is and how to use the SPI communication buses of the ESP32.

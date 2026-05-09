@@ -1,3 +1,5 @@
+{{#title Connect to ESP32 Bluetooth BLE Server Using nRF Connect}}
+
 # Connecting to Our BLE Server Using nRF Connect Mobile App
 
 Once you flash the code to the ESP32, open the nRF Connect mobile app. 

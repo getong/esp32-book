@@ -1,3 +1,5 @@
+{{#title Display Text on OLED Display with ESP32 and Embedded Rust}}
+
 # Display "Hello, Rust!" on OLED with ESP32
 
 This exercise serves as a simple introduction to the OLED display, so we'll keep it straightforward by displaying "Hello, Rust!" on the OLED screen.  

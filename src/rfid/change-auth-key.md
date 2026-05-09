@@ -1,4 +1,6 @@
-## Changing the Authentication Key
+{{#title Modify MIFARE RFID Authentication Key on ESP32 with Rust}}
+
+# Changing the Authentication Key
 
 Let's change the authentication key (KeyA) for sector 1. By default, it is set to `FF FF FF FF FF FF`. We'll update it to `52 75 73 74 65 64` which is hex for "Rusted." To do this, we need to modify the trailer block (block 3) of sector 1 while leaving the rest of the sector untouched.
 

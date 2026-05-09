@@ -1,4 +1,6 @@
-## NTC and Voltage Divider
+{{#title Understanding NTC Thermistors in a Voltage Divider Circuit}}
+
+# NTC and Voltage Divider
 
 I have created a circuit on the Falstad website, and you can download the [voltage-divider-thermistor.circuitjs.txt](./voltage-divider-thermistor.circuitjs.txt) file to import and experiment with.   This setup is similar to what we covered in the [Voltage divider](../core-concepts/voltage-divider.md) chapter. If you haven't gone through that section, I highly recommend completing the theory there before continuing.
 

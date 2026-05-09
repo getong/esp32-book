@@ -1,3 +1,5 @@
+{{#title Connect Joystick Module to ESP32 Using ADC Pins | impl Rust}}
+
 # Connecting the Joystick to the ESP32
 
 Let's connect the joystick to the ESP32. We need to connect the VRX and VRY pins to the ADC pins of the ESP32. The joystick will be powered with 3.3V instead of 5V because the ESP32's GPIO pins are only 3.3V tolerant. Connecting it to 5V could damage the ESP32's pins. Thankfully, the joystick can operate at 3.3V as well.

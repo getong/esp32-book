@@ -1,3 +1,5 @@
+{{#title Show Thermistor Temperature on SSD1306 OLED with ESP32 and Rust}}
+
 # Displaying Temperature on an OLED Display
 
 There's nothing new in this chapter. In most real scenarios, you won't be connected to a system and will want to display the temperature on something like an OLED display. So, instead of printing the temperature to the system console, we'll print it to the OLED display. 

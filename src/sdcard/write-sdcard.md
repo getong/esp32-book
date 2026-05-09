@@ -1,3 +1,5 @@
+{{#title Rust Code to Write a File to an SD Card Using the ESP32}}
+
 # Rust Code to Write a File to an SD Card Using the ESP32
 
 In this exercise, we will create (or overwrite) a file on an SD card and write "Hello, Ferris!" into it.

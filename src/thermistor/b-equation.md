@@ -1,5 +1,6 @@
+{{#title ESP32 Thermistor B Equation Temperature Calculation in Rust}}
 
-## B Equation
+# B Equation
 The B equation is simpler but less precise. 
 \\[
 \frac{1}{T} = \frac{1}{T_0} + \frac{1}{B} \ln \left( \frac{R}{R_0} \right)

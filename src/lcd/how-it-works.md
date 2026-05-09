@@ -1,3 +1,5 @@
+{{#title How LCD1602 Displays Work with ESP32 and Rust}}
+
 # How it works?
 
 A Liquid Crystal Display (LCD) uses liquid crystals to control light. When electricity is applied, the crystals change orientation, either allowing light to pass through or blocking it, creating images or text. A backlight illuminates the screen, and colored sub-pixels (red, green, and blue) combine to form various colors. The crystals can also turn opaque in specific areas, blocking the backlight and creating dark regions to display characters.

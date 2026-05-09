@@ -1,3 +1,5 @@
+{{#title Connect a Waveshare e-Ink Display to ESP32 Using SPI}}
+
 # Circuit
 
 ## e-Paper Display Pinout

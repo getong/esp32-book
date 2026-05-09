@@ -1,3 +1,5 @@
+{{#title ESP32 Bluetooth BLE GATT Event Handling in Rust}}
+
 # GATT Events
 
 The GATT events task handles incoming requests from the connected central device. It processes read and write operations on characteristics and responds appropriately until the connection closes.

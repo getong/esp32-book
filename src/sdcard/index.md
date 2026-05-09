@@ -1,3 +1,5 @@
+{{#title SD Card and MicroSD Card Basics for ESP32 and Embedded Rust}}
+
 # SD Card (SDC/MMC)
 
 Sooner or later, you might need to save data you collect from sensors, game files, or other information. One of the perfect choices is to store it on an SD card. In this section, we will learn how to use an SD card module with the ESP32.

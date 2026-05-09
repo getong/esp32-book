@@ -1,3 +1,5 @@
+{{#title Draw Raw 1BPP Images on an OLED Display with ESP32}}
+
 # Draw Raw Image on OLED Display with ESP32
 
 In this exercise, we will draw a raw image using only byte arrays. We will create the Ohm (Ω) symbol in a 1BPP (1 Bit Per Pixel) format.

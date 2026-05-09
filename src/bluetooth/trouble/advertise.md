@@ -1,3 +1,5 @@
+{{#title ESP32 Bluetooth Advertising and Device Discovery in Rust}}
+
 # BLE Advertising
 
 BLE advertising is how a device announces its presence to nearby devices (like phones or computers) and shares information so they can connect. It broadcasts the device name, available services, and capabilities.

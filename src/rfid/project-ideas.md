@@ -1,3 +1,5 @@
+{{#title Embedded Rust RFID Project Ideas for ESP32 and RC522}}
+
 # Project Ideas
 
 ## 1. Access Control with RFID and OLED

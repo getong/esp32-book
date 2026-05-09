@@ -1,3 +1,5 @@
+{{#title Read RFID Tag UID with RC522 and ESP32 in Embedded Rust}}
+
 # Read UID
 
 Alright, let's get to the fun part and dive into some action! We'll start by writing a simple program to read the UID of the RFID tag.

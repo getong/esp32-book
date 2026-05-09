@@ -1,3 +1,5 @@
+{{#title Understanding I2C for Embedded Systems and ESP32}}
+
 # Inter-Integrated Circuit (I2C)
 
 In this section, we will learn what I2C is and how to use the I2C communication buses of the ESP32.

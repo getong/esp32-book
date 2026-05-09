@@ -1,3 +1,5 @@
+{{#title Connecting an SSD1306 OLED Display to ESP32}}
+
 # Circuit
 
 We will use I2C for communication between the ESP32 and the OLED display. For I2C, two GPIO pins need to be configured as SDA (Serial Data) and SCL (Serial Clock). On the ESP32, we can use any GPIO pins for I2C. We'll configure GPIO pin 18 as SCL and GPIO pin 23 as SDA. The VCC pin of the OLED will be connected to the 3.3V pin of the ESP32, and the Ground pin will be connected to the ESP32's ground.

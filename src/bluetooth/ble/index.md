@@ -1,8 +1,8 @@
+{{#title Understanding Bluetooth Low Energy (BLE) on ESP32 in Rust}}
+
 # BLE
 
 To work with Bluetooth Low Energy, we need to understand several key concepts. I'll keep it simple and cover just enough to get you started without overwhelming you with too many details. So, buckle up, and let's jump in.
-
-
 
 ## BLE Stack
 The image below illustrates the Bluetooth Low Energy (BLE) protocol stack.  The BLE stack is the foundation of communication between BLE devices. We won't go into the Controller (lower layers) in detail, as it's not essential for our purpose. However, understanding key concepts in the Host part, such as GAP and GATT, is important.

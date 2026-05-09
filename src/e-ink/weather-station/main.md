@@ -1,3 +1,5 @@
+{{#title Rust ESP32 Weather Station with Wi-Fi and e-Ink Display}}
+
 # Let the fun begin
 
 In the `main` function, we will perform the usual setup steps like initializing the Wi-Fi stack, SPI device, and creating an instance of the `Dashboard` we defined earlier.

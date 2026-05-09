@@ -1,3 +1,5 @@
+{{#title Create a Ratatui Dashboard on ESP32 Using Embedded Rust}}
+
 # Using `mipidsi` crate 
 
 This tutorial shows how to use the newer `mipidsi` crate with the TFT and ESP32.

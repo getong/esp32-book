@@ -1,3 +1,5 @@
+{{#title Rust Async Wi-Fi Setup on ESP32 with Embassy and esp-radio}}
+
 # Wi-Fi module
 
 The `wifi.rs` code is the same as in the ['Access Website' chapter](../../wifi/embassy/async-access-website.md) of the Wi-Fi section. I recommend referring to it for more details.

@@ -1,3 +1,5 @@
+{{#title Read Files from an SD Card on ESP32 Using Embedded Rust}}
+
 # Write Rust code to read a file from an SD card using the ESP32.
 
 Let's create a simple program that reads a file from the SD card and outputs its content to the system console. Make sure the SD card is formatted with FAT32 and contains a file to read (for example, "FERRIS.TXT" with the content "Hello, World!"). 

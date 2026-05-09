@@ -1,3 +1,5 @@
+{{#title Using Ratatui on ESP32 Displays with Embedded Rust}}
+
 # Ratatui
 
 You're probably familiar with Ratatui, the popular Rust library for building cool terminal user interfaces (TUIs). Many developers create impressive TUI applications using this crate. But you might wonder why we're discussing a TUI library in an embedded Rust book.

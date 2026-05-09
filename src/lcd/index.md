@@ -1,3 +1,5 @@
+{{#title LCD1602 I2C Display with ESP32 in Embedded Rust}}
+
 # LCD Display
 
 In this section, we will be using Hitachi HD44780 compatible LCD (Liquid Crystal Display) displays. You might have seen them in devices like printers, digital clocks, microwaves, washing machines, air conditioners, and other home appliances. They're also used in equipment like copiers, fax machines, and routers.

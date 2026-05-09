@@ -1,3 +1,5 @@
+{{#title Using an SSD1306 OLED Display with ESP32}}
+
 # OLED Display with ESP32
 
 So far, we've been printing output to the system console. While that's fine for debugging, it's not ideal for real-world use cases. If you're reading sensor data, like temperature, or need to show messages to a user (or yourself), a display is the way to go. Options like LCD and OLED are commonly used. 

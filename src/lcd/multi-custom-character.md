@@ -1,4 +1,6 @@
-## Multi Custom character
+{{#title How to Draw Large Custom LCD Characters on ESP32 with Rust}}
+
+# Multi Custom character
 
 In this exercise, we'll display the Ferris image generated with the help of the multi generator. I will not be repeating the project creation steps here. You can either follow the previous chapter steps or just clone the previous chapter project and work on top of that.
 

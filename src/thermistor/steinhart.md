@@ -1,5 +1,6 @@
+{{#title ESP32 Steinhart-Hart Equation Temperature Calculation in Rust}}
 
-## Steinhart Hart equation
+# Steinhart Hart equation
 The Steinhart-Hart equation provides a more accurate temperature-resistance relationship over a wide temperature range. 
 \\[
 \frac{1}{T} = A + B \ln R + C (\ln R)^3

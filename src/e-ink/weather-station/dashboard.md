@@ -1,3 +1,5 @@
+{{#title Rust ESP32 Weather Dashboard: Drawing Weather Data on e-Paper}}
+
 # Dashboard
 
 In this chapter, we'll build the main logic. The idea is to update the dashboard every so often;say, every 10 minutes. To do that, we'll fetch the latest weather data by calling the access_website function from the weather module, and then update each part of the dashboard with the new info.

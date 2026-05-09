@@ -1,4 +1,4 @@
-## Custom Characters
+# Custom Characters
 
 Besides the supported characters, you can create your own custom ones, like smileys or heart symbols. The module includes 64 bytes of Character Generator RAM (CGRAM), allowing up to 8 custom characters. 
  

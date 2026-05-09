@@ -1,3 +1,5 @@
+{{#title Joystick Module Basics and Working with ESP32 in Rust}}
+
 # Joystick
 
 In this section, we'll explore how to use the Joystick Module. It is similar to the joysticks found on PS2 (PlayStation 2) controllers. They are commonly used in gaming, as well as for controlling drones, remote-controlled cars, robots, and other devices to adjust position or direction.

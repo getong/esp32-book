@@ -1,3 +1,5 @@
+{{#title Build a Bluetooth BLE Peripheral on ESP32 with Rust}}
+
 # Running BLE Stack
 
 Here, we define the `run` function, which sets up and starts the BLE stack on our ESP32.
@@ -5,9 +7,7 @@ Here, we define the `run` function, which sets up and starts the BLE stack on ou
 
 ## Overall flow
 
-
 <img style="display: block; margin: auto;" alt="BLE Overall flow of the code" src="./images/overall-flow.svg"/>
-
 
 
 ```rust

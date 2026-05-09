@@ -1,4 +1,6 @@
-## Code
+{{#title Write Rust Code for Multibyte Image Rendering on ESP32 and OLED}}
+
+# Code
 
 The main changes in the code are the image data and width. This will display the resistor symbol in the IEC-60617 style.
 

@@ -1,4 +1,6 @@
-## Pin Layout
+{{#title LCD1602 I2C Pinout and Pin Functions for ESP32 | impl Rust}}
+
+# Pin Layout
 
 The I2C variant of LCD module has a total of 4 pins.
 

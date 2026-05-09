@@ -1,3 +1,5 @@
+{{#title Connect an ILI9341 TFT Display to ESP32 Using SPI}}
+
 # Connect ESP32 with TFT Display
 
 In this section, we will look at the pinout of the TFT display module and see how to connect it to the ESP32. If you notice carefully, it is very similar to the e-ink display module. That's because both displays use SPI (Serial Peripheral Interface) for communication, and they share common control lines like CS, DC, RESET, MOSI, and SCK. This means that once you understand how to wire and drive one SPI-based display, switching to another becomes much easier.

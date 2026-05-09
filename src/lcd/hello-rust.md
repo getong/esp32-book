@@ -1,3 +1,5 @@
+{{#title How to Display Text on an LCD1602 with ESP32 and Rust}}
+
 # "Hello, Rust!" in LCD Display
 
 In this program, we will just print "Hello, Rust!" text in the LCD display. 

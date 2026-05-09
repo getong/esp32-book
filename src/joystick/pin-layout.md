@@ -1,3 +1,5 @@
+{{#title ESP32 Joystick Module Pinout and Pin Functions Explained}}
+
 # Pin layout
 
 The joystick has a total of 5 pins: power supply, ground, X-axis output, Y-axis output, and switch output pin.

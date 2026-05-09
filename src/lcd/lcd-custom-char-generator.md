@@ -1,4 +1,6 @@
-## LCD Custom Character Generator (5x8 Grid)
+{{#title Generate Custom LCD Characters for HD44780 Displays}}
+
+# LCD Custom Character Generator (5x8 Grid)
 
 Select the grids to create a symbol or character. As you select the grid, the corresponding bits in the byte array will be updated.
 

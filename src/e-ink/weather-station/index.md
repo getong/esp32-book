@@ -1,3 +1,5 @@
+{{#title Rust Weather Dashboard Project with ESP32 and e-Paper Display}}
+
 # Write Rust code to build a Weather Dashboard using E-Paper and ESP32
 
 Let's do something more fun with the e-ink display than just showing static text or images. We'll build a simple weather station that fetches real-time weather data from the internet using an HTTP API and updates the display with the latest info.  This is like a "Hello, World" program for the e-paper.

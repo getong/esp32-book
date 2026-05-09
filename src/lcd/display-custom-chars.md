@@ -1,4 +1,6 @@
-## Ferris on LCD Display
+{{#title How to Draw Custom Symbols on an I2C LCD Display with Rust}}
+
+# Ferris on LCD Display
 
 Let's create Ferris (my attempt to make it look like a crab; if you have a better design, feel free to send a pull request) using a single character. In fact, we can combine 4 or 6 adjacent grids to display a single symbol. Creativity is up to you, and you can improve it however you like.
 

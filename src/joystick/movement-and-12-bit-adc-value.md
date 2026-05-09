@@ -1,4 +1,7 @@
-## Joystick Movement and Corresponding ADC Values
+{{#title Understanding Joystick X and Y Axis ADC Values on ESP32}}
+
+# Joystick Movement and Corresponding ADC Values
+
 When you move the joystick along the X or Y axis, it produces an analog signal with a voltage that varies between 0 and 3.3V(or 5V if we connect it to 5V supply). When the joystick is in its center (rest) position, the output voltage is approximately 1.65V, which is half of the VCC(VCC is 3.3V in our case). 
 
 > [!Note]

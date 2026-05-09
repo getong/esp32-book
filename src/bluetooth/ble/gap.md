@@ -1,3 +1,5 @@
+{{#title ESP32 Bluetooth Low Energy GAP Communication Explained}}
+
 # Generic Access Profile (GAP)
 
 GAP (Generic Access Profile) is a set of rules that control how Bluetooth Low Energy (BLE) devices discover, connect, and communicate with each other.

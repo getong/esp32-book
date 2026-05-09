@@ -1,3 +1,5 @@
+{{#title Create a BLE GATT Server on ESP32 Using Rust and Trouble}}
+
 # BLE Module
 
 In this module, we will define what kind of data our ESP32 sends and receives, set up and run the server, and handle connections. We've taken this example from the official Trouble repository and made some small changes. You can find more examples in the [repository](https://github.com/embassy-rs/trouble/tree/main/examples/apps).

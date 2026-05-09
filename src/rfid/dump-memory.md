@@ -1,4 +1,6 @@
-## Dump Entire Memory
+{{#title Rust code to Read RFID Sectors and Blocks on ESP32 with MFRC522}}
+
+# Dump Entire Memory
 
 You've learned how to read the data from each block of the first sector(sector 0) by authenticating into it. Now, we will loop through each sector. Re-Authentication is required every time we move to a new sector. For each sector, we will display the 16-byte data from every 4 blocks.
 

@@ -1,3 +1,5 @@
+{{#title ESP32 e-Ink Graphics Tutorial with embedded-graphics and Rust}}
+
 # Draw image or shape on e-Paper (e-ink) Display using ESP32
 
 Let's level up the game even further by drawing an image and a shape on the e-Paper display. We can achieve this using the embedded-graphics crate, and optionally, the tinybmp crate.

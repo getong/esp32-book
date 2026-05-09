@@ -1,3 +1,5 @@
+{{#title Learn Thermistor Temperature Measurement with ESP32}}
+
 # Thermistor
 
 In this section, we'll be using a thermistor with the ESP32.  A thermistor is a variable resistor that changes its resistance based on the temperature. The amount of change in resistance depends on its composition.  The term comes from combining "thermal" and "resistor.". 

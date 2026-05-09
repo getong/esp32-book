@@ -1,4 +1,6 @@
-## Connecting RC522 with ESP32 
+{{#title Connect RC522 RFID Reader to ESP32 Using SPI | impl Rust}}
+
+# Connecting RC522 with ESP32 
  
 ## Pinout diagram of RC522
 There are 8 pins in the RC522 RFID module.

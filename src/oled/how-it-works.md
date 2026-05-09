@@ -1,3 +1,5 @@
+{{#title How SSD1306 OLED Displays Work}}
+
 # How OLED module works?
 
 We won't dive into the details of how OLED technology works; instead, we'll focus on what's relevant for our exercises. The module has a resolution of 128x64, giving it a total of 128 × 64 = 8192 pixels. Each pixel can be turned on or off independently.

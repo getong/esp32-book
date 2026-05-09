@@ -1,3 +1,5 @@
+{{#title Write Text on TFT Display using ESP32 | Embedded Rust Book}}
+
 # Write Text on TFT Display using ESP32
 
 Let's create a simple program to draw text on the display module using the [ili9341](https://docs.rs/ili9341/0.6.0/ili9341/) crate. 

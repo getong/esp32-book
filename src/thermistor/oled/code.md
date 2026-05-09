@@ -1,3 +1,5 @@
+{{#title Display Room Temperature on OLED Display Using ESP32 and Rust}}
+
 # Display Room Temperature on OLED Display Using ESP32 and Rust
 
 We will enable async (Embassy) support for this project.  To create the project, use the `esp-generate` command. Run the following:

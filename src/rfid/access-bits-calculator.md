@@ -1,3 +1,5 @@
+{{#title MIFARE Classic 1K Access Bits Calculator for ESP32}}
+
 # MIFARE Classic 1K Access Bits Calculator
 
 <style>

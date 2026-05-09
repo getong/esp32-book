@@ -1,3 +1,4 @@
+{{#title ESP32 e-Ink Display Working Principle and Partial Refresh Explained}}
 
 # How it works?
 
@@ -12,6 +13,7 @@ Some variants support a Partial Refresh Mode, including the 1.54-inch module we 
 That said, it is highly recommended to perform a full refresh after several partial refreshes. Failing to do so can cause ghosting effects and may eventually damage the screen.
 
 ## Precautions
+
 Unlike other display modules, the e-ink display module was a bit finicky. I struggled a lot with this module while trying to figure it out.  You need to be careful when working with it as well.
 
 I recommend you to read the [precautions](https://www.waveshare.com/wiki/1.54inch_e-Paper_Module_Manual#Precautions) from the official website before using the module. 

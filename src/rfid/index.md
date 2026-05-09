@@ -1,3 +1,5 @@
+{{#title Understanding RFID Technology and RC522 Module for ESP32}}
+
 # RFID
 In this section, we'll use the RFID Card Reader (RC522) module to read data from RFID tags and key fobs.
 

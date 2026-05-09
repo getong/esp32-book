@@ -1,3 +1,5 @@
+{{#title Connecting LCD Display to ESP32 | Embedded Rust Book}}
+
 # Connecting LCD Display (LCD1602) to the ESP32
 
 We are going to connect an LCD1602 character display fitted with an I2C adapter to the ESP32. From a wiring point of view, the setup looks simple because only four connections are required: power, ground, SDA, and SCL. However, even though the wiring count is small, there is an important voltage detail that we must handle correctly before making any connections.

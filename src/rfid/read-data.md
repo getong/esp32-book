@@ -1,3 +1,5 @@
+{{#title Read RFID Tag Data Blocks with RC522 and ESP32 in Rust}}
+
 # Read the data
 
 In this section, we'll read all the blocks from the first sector (sector 0). As we mentioned earlier, to read or write to a specific block on the RFID tag, we first need to authenticate with the corresponding sector.

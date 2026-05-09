@@ -1,4 +1,6 @@
-## Print Joystick Movement ADC Values
+{{#title Read Joystick ADC Values on ESP32 in Embedded Rust}}
+
+# Print Joystick Movement ADC Values
 
 In this program, we'll observe how joystick movement affects ADC values in real time. We will connect the ESP32 with the joystick. 
 

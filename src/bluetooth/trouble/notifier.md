@@ -1,5 +1,6 @@
-# Notifier
+{{#title Send Bluetooth BLE Notifications on ESP32 with Rust}}
 
+# Notifier
 
 This task demonstrates how to push data to a connected central device. Imagine it as sensor data that you periodically gather and send to a mobile device or some other device. In this example, we're simulating sensor readings by incrementing a counter every 2 seconds and sending notifications to the connected device.
 

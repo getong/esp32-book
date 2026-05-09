@@ -1,3 +1,5 @@
+{{#title Understanding SpiBus and SpiDevice in Embedded Rust for ESP32}}
+
 # Using SPI with Embedded Rust Ecosystem
 
 In the previous section, we learned what SPI is and how the controller-peripheral model works. Now, let's see how these concepts apply within the Embedded Rust ecosystem.

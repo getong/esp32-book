@@ -1,3 +1,5 @@
+{{#title ESP32 SPI Peripherals and SPI Bus Configuration in Rust}}
+
 # ESP32 SPI Peripherals
 
 The ESP32 includes four SPI controllers, but only two of them: SPI2 and SPI3 are available for general use. These are commonly known as HSPI and VSPI. The other two SPI controllers, SPI0 and SPI1, are reserved for internal usage.

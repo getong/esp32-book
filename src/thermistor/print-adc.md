@@ -1,3 +1,5 @@
+{{#title Read Thermistor Temperature with ESP32 ADC in Rust}}
+
 # Print ADC
 
 In this exercise, we read the ADC value and use it to find the resistance of the thermistor. Then, we calculate the temperature in Celsius. We'll then print the ADC value, the resistance, and the temperature to the system console.

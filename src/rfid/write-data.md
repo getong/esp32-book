@@ -1,3 +1,5 @@
+{{#title Write Data to MIFARE Classic RFID Cards on ESP32 in Rust}}
+
 # Write Data
 
 We will write data into block 2 of sector 4. First, we will print the data in the block before writing to it, and then again after writing. To perform the write operation, we will use the `mf_write` function from the mfrc522 crate.

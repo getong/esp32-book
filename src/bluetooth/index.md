@@ -1,3 +1,5 @@
+{{#title Bluetooth, BLE, and Bluetooth Classic on ESP32 Explained}}
+
 # Bluetooth
 
 Bluetooth needs no introduction. You probably use it daily; connecting your wireless headphones with your phone, wireless mouse, smartwatch, and more. In smart homes, Bluetooth helps link different devices. For example, you can control lights, appliances, and thermostats using Bluetooth-enabled apps on your phone.

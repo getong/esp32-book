@@ -1,3 +1,5 @@
+{{#title Rust Crates for SSD1306 OLED Displays on ESP32}}
+
 # Crates 
 
 We will primarily use two crates to control the OLED display: [ssd1306](https://docs.rs/ssd1306/latest/ssd1306/) and [embedded_graphics](https://docs.rs/embedded-graphics/latest/embedded_graphics/).

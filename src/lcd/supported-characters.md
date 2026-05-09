@@ -1,4 +1,6 @@
-## Supported Characters
+{{#title HD44780 LCD Character Set and Supported Characters Explained}}
+
+# Supported Characters
 
 When referring to the HD44780 datasheet, you'll find two character set tables corresponding to two different ROM versions(A00 and A02). To determine which ROM your display uses, try unique characters from both tables. The one that displays correctly indicates the ROM version. Once identified, you only need to refer to the relevant table. 
 

@@ -1,3 +1,5 @@
+{{#title How to Write Rust Code for Using Bluetooth Low Energy (BLE) on ESP32}}
+
 # How to Write Rust Code for Using Bluetooth Low Energy (BLE) on ESP32
 
 Let's create a simple program to demonstrate Bluetooth Low Energy (BLE).  In this exercise, we will be using the `Trouble` crate with Embassy. We'll define a GATT service with two characteristics:

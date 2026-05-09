@@ -1,3 +1,5 @@
+{{#title Weather API Client for an ESP32 e-Ink Dashboard in Rust}}
+
 # Weather API
 
 In this chapter, we'll learn how to send a request to the API and deserialize the JSON response into a struct.
